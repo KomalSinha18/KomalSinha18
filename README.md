@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Komal Sinha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="coding" width="400" src="Untitled design (1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsinha18&label=Profile%20views&color=0e75b6&style=flat" alt="komalsinha18" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
